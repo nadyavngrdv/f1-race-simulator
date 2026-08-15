@@ -1,0 +1,9 @@
+# Build output
+output/
+
+# Executable files
+*.exe 
+
+# Object files
+*.o 
+*.obj 
